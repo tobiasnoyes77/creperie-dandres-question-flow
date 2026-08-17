@@ -1,0 +1,8 @@
+# Source media and raw transcript artifacts stay local — never published
+*.m4a
+*.mp3
+*.wav
+transcripts/
+
+# macOS
+.DS_Store
